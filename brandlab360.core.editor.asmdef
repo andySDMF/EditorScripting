@@ -1,0 +1,27 @@
+{
+    "name": "brandlab360.core.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bd4cfaeb850f6a74e91c67827e6fc79d",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:78bd2ddd6e276394a9615c203e574844",
+        "GUID:457756d89b35d2941b3e7b37b4ece6f1",
+        "GUID:3eae0364be2026648bf74846acb8a731",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:25026b4240a65f64a935a8e19965dfde",
+        "GUID:c7f6551b1a646c74d90bf6b48d8451e6",
+        "GUID:b46c6054c578cd040820c93ed3b94119",
+        "GUID:3b2e05f6867579a4eac623edd42d78ce"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
